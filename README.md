@@ -1,1 +1,1 @@
-Code implementation CILQR versus CBF+ILQR in autonomous driving.
+Code implementation of CILQR versus CBF+ILQR in autonomous driving.
